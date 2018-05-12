@@ -1,0 +1,36 @@
+_repo: The-Rebellion-in-the-Cevennes-an-Historical-Novel.-Vol.-II._31739
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Burette, Madame
+    gutenberg_agent_id: '35440'
+    url: http://www.gutenberg.org/2009/agents/35440
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tieck, Ludwig
+    aliases:
+    - Tieck, Johann Ludwig
+    - Tieck, L. (Ludwig)
+    birthdate: 1773
+    deathdate: 1853
+    gutenberg_agent_id: '31945'
+    url: http://www.gutenberg.org/2009/agents/31945
+description: ''
+gutenberg_issued: '2010-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'France -- History -- Insurrection of the Camisards, 1702-1710 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'German fiction -- Translations into English'
+title: The Rebellion in the Cevennes, an Historical Novel. Vol. II.
+url: http://www.gutenberg.org/ebooks/31739
